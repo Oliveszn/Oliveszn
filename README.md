@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Oliveszn
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ekpealamicheal@gmail.com
+- 📫 You can reach out to me via ekpealamicheal@gmail.com
 
 <!---
 Oliveszn/Oliveszn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
