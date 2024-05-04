@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Oliveszn
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full-Stack Development, I currently work with ReactJs, MongoDb, ExpressJs and Node  to make building fast and scalable web apps and services easier 
+   and efficient
+- 🌱 I’m currently learning Node and React
+- 💞️ I’m looking to collaborate on Junior Developer roles or Partnership with other young developers
 - 📫 You can reach out to me via ekpealamicheal@gmail.com
 
 <!---
