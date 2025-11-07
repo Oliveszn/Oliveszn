@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Oliveszn
-- 👀 I’m interested in Full-Stack Development, I currently work with ReactJs, MongoDb, ExpressJs and Node  to make building fast and scalable web apps and services easier 
-   and efficient
-- 🌱 I’m currently learning Node and React
-- 💞️ I’m looking to collaborate on Junior Developer roles or Partnership with other young developers
-- 📫 You can reach out to me via ekpealamicheal@gmail.com
+About Me
+
+👋 Hi, I’m Olive
+FullStack Developer interested in building fast and scalable web apps and making services easier and efficient, I work with ReactJs, NextJs, Express, and Node
+
+- 🌱 I’m currently learning GoLang
+- 💞️  I'm open to work and always looking to collaborate 
+
 
 <!---
 Oliveszn/Oliveszn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
