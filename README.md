@@ -1,9 +1,17 @@
 # 👋 Hi, I’m Olive
-A Frontend focused FullStack Engineer interested in building fast and scalable web apps and making services easier and efficient, I work with ReactJs, NextJs, Express, and Node
+A Frontend focused FullStack Engineer interested in building fast and scalable web apps and making services easier and efficient, I work with ReactJs, NextJs, NodeJs, Express, and Nest
 
-- 🌱 I’m currently learning GoLang
-- 💞️ I'm open to work and always looking to collaborate
-- 💞️ I'm also expanding my knowledge into Ai development
+## 🌱 About me
+- 💞️ Focused on performance optimization and frontend best practices
+- 💞️ I’m currently learning GoLang, to expand my knowledge of backend systems
+- 💞️ I'm also interested in AI development
+
+## 🤝 Let's collaborate!  
+I'm open to connecting and collaborating with other developers on projects (frontend or backend) and learning opportunites, feel free to explore my repositories.
+
+## 📫 How to reach me
+- 📧 Email: [ekpealamicheal@gmail.com](mailto:ekpealamicheal@gmail.com)
+- 🐦 Twitter: [@oliveszn_](https://x.com/oliveszn_)
 
 
 <!---
