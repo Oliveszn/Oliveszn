@@ -1,7 +1,5 @@
-About Me
-
-👋 Hi, I’m Olive,
-FullStack Developer interested in building fast and scalable web apps and making services easier and efficient, I work with ReactJs, NextJs, Express, and Node
+# 👋 Hi, I’m Olive
+A Frontend focused FullStack Engineer interested in building fast and scalable web apps and making services easier and efficient, I work with ReactJs, NextJs, Express, and Node
 
 - 🌱 I’m currently learning GoLang
 - 💞️ I'm open to work and always looking to collaborate
