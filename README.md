@@ -7,9 +7,9 @@ Software Engineer skilled in Go and JavaScript/TypeScript. I build web apps, dis
 - Testing: Cypress, Playwright, Jest, etc.
 
 ## 🌱 About me
--  Focused on performance optimization and frontend best practices
--  I’m currently learning GoLang, to expand my knowledge of backend systems
--  I'm also interested in AI development
+-  I'm actively contributing to open-source projects
+-  I'm currently diving into blockchain engineering
+-  I'm also exploring AI development and its real-world applications.
 
 ## 🧩 Data Structures & Algorithms 
 I'm strengthening my problem-solving skills by practicing Data Structures & Algorithms in Go with a focus on writing clean, efficient, and interview-ready solutions.
