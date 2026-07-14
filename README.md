@@ -1,17 +1,35 @@
-# 👋 Hi, I’m Olive
-A Frontend focused FullStack Engineer interested in building fast and scalable web apps and making services easier and efficient, I work with ReactJs, NextJs, NodeJs, Express, and Nest
+# 👋 Hi, I’m Ekpeala Olive
+Software Engineer skilled in Go and JavaScript/TypeScript. I build web apps, distributed systems and software solutions to solve real business needs.
+
+## 📚 Tech Stack
+- Languages: Go, JavaScript/TypeScript
+- Databases: PostgreSQL, MongoDB, SQLite, MySQL, Supabase, Firebase
+- Testing: Cypress, Playwright, Jest, etc.
 
 ## 🌱 About me
-- 💞️ Focused on performance optimization and frontend best practices
-- 💞️ I’m currently learning GoLang, to expand my knowledge of backend systems
-- 💞️ I'm also interested in AI development
+-  Focused on performance optimization and frontend best practices
+-  I’m currently learning GoLang, to expand my knowledge of backend systems
+-  I'm also interested in AI development
 
-## 🤝 Let's collaborate!  
-I'm open to connecting and collaborating with other developers on projects (frontend or backend) and learning opportunites, feel free to explore my repositories.
+## 🧩 Data Structures & Algorithms 
+I'm strengthening my problem-solving skills by practicing Data Structures & Algorithms in Go with a focus on writing clean, efficient, and interview-ready solutions.
+
+### Current focus
+
+- Arrays & Strings
+- Linked list
+- Recursion
+- Dynamic programming
+- Greedy algorithms
+
+I'm also working toward completing 365 days of DSA, documenting my progress and solutions along the way.
+
+Follow my progress: https://x.com/oliveszn_/status/2050085455652077619?s=20
+
 
 ## 📫 How to reach me
-- 📧 Email: [ekpealamicheal@gmail.com](mailto:ekpealamicheal@gmail.com)
-- 🐦 Twitter: [@oliveszn_](https://x.com/oliveszn_)
+-  Email: [ekpealamicheal@gmail.com](mailto:ekpealamicheal@gmail.com)
+-  Twitter: [@oliveszn_](https://x.com/oliveszn_)
 
 
 <!---
