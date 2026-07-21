@@ -8,7 +8,7 @@ Software Engineer skilled in Go and JavaScript/TypeScript. I build web apps, dis
 
 ## 🌱 About me
 -  I'm actively contributing to open-source projects
--  I'm currently diving into blockchain engineering
+-  I'm currently diving into blockchain & protocol engineering
 -  I'm also exploring AI development and its real-world applications.
 
 ## 🧩 Data Structures & Algorithms 
